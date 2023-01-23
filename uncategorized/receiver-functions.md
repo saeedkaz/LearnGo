@@ -1,9 +1,7 @@
 # Receiver Functions
 
-Reciever functions provide . notation for structs like:
+Reciever functions provide . notation for structs
 
-```
-struct.recieverfunction(othervars)
-```
+^/ struct.recfunction(othervars)
 
 usually we use pointer reciever
