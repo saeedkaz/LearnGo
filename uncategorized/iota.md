@@ -2,4 +2,4 @@
 
 assign integers to constants
 
-used with receiver function
+used with receiver function ad Emuneration pattern
