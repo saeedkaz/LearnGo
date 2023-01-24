@@ -8,3 +8,7 @@
 
 * [Receiver Functions](uncategorized/receiver-functions.md)
 * [iota](uncategorized/iota.md)
+
+***
+
+* [Variadics](variadics.md)
