@@ -12,3 +12,4 @@
 ***
 
 * [Variadics](variadics.md)
+* [fmt](fmt.md)
