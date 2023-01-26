@@ -22,8 +22,6 @@ escape charachter
 \' Single quote
 ```
 
-````
 ```go
 fmt.Printf("%v %.0f %v \n", "This Backup was taken", elapsed, "housrs of ago")
 ```
-````
