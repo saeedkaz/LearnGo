@@ -13,3 +13,4 @@
 
 * [Variadics](variadics.md)
 * [fmt](fmt.md)
+* [init function](init-function.md)
